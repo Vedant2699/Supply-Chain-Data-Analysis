@@ -1,4 +1,4 @@
-# Supply Chain Data Analysis
+# Supply Chain Data Analysis.
 
 ## Relationship between Price of Products and Revenue Generated.
 ## Sales by Product Type.
